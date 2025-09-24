@@ -1,6 +1,6 @@
 # semantic-segmentation
 
-![Описание](./segmentation_results/results_2d_detection/segmentation_test_output.gif)
+![Описание](./segmentation_results/segmentation_test_output.gif)
 
 ## 1. Введение
 
